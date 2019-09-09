@@ -23,7 +23,7 @@
     "@contentful/rich-text-html-renderer": "^13.0.0",
     "@contentful/rich-text-types": "^13.0.0",
     "@reach/router": "^1.2.1",
-    "@types/styled-components": "^4.1.11",
+    "@types/styled-components": "^4.1.19",
     "babel-plugin-styled-components": "^1.10.0",
     "formik": "^0.11.11",
     "fuse.js": "^3.4.4",
